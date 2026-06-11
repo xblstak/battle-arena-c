@@ -22,8 +22,8 @@ Konzolová aplikácia v jazyku C simulujúca súboj dvoch armád na bojovom poli
 ## Štruktúra repozitára
 
 ```
-zadanie4.c        – Battle Arena 1.0
-zadanie5.c        – Battle Arena 2.0
+z4.c        – Battle Arena 1.0
+z5.c        – Battle Arena 2.0
 data.h            – definície štruktúr a databáza predmetov
 ```
 
